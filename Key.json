@@ -3,15 +3,18 @@
     "password": "1234",
     "expiry": "2023-12-31",
     "name": "Shervin T."
+    "active_id": "1"
   },
   "dns": {
     "password": "1234",
     "expiry": "2025-10-25",
     "name": "Test User 1"
+    "active_id": "1"
   },
   "user2": {
     "password": "1234",
     "expiry": "2027-12-31",
     "name": "Test User 2"
+    "active_id": "1"
   }
 }
