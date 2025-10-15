@@ -1,1 +1,13 @@
+[
+  {
+    "username": "dns",
+    "password": "1234",
+    "expires_at": "2025-11-01T00:00:00Z"
+  },
+  {
+    "username": "shervin",
+    "password": "1234",
+    "expires_at": "2025-10-20T23:59:59Z"
+  }
+]
 
