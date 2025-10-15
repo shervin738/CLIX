@@ -4,9 +4,9 @@
     "expiry": "2021-12-31",
     "name": "Shervin T."
   },
-  "user1": {
+  "dns": {
     "password": "1234",
-    "expiry": "2024-01-01",
+    "expiry": "2025-10-25",
     "name": "Test User 1"
   },
   "user2": {
