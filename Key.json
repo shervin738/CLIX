@@ -1,23 +1,42 @@
-[
-  {
-    "username": "dns",
+{
+  "shervin": {
     "password": "1234",
-    "expires_at": "2025-11-01T00:00:00Z"
+    "expiry": "2026-12-31",
+    "name": "Shervin T"
   },
-  {
-    "username": "shervin",
+  "ali": {
     "password": "1234",
-    "expires_at": "2025-10-20T23:59:59Z"
-  }
-  {
-    "username": "iliya",
-    "password": "1234",
-    "expires_at": "2025-10-14T00:00:00Z"
+    "expiry": "2026-11-30",
+    "name": "Ali"
   },
-  {
-    "username": "ali",
+  "reza": {
     "password": "1234",
-    "expires_at": "2025-10-20T23:59:59Z"
+    "expiry": "2026-10-15",
+    "name": "Reza"
+  },
+  "sara": {
+    "password": "1234",
+    "expiry": "2026-09-01",
+    "name": "Sara"
+  },
+  "mina": {
+    "password": "1234",
+    "expiry": "2026-08-20",
+    "name": "Mina"
+  },
+  "test1": {
+    "password": "1234",
+    "expiry": "2027-01-01",
+    "name": "Test User 1"
+  },
+  "test2": {
+    "password": "1234",
+    "expiry": "2027-06-30",
+    "name": "Test User 2"
+  },
+  "admin": {
+    "password": "1234",
+    "expiry": "2099-12-31",
+    "name": "Administrator"
   }
-]
-
+}
