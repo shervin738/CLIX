@@ -9,5 +9,15 @@
     "password": "1234",
     "expires_at": "2025-10-20T23:59:59Z"
   }
+  {
+    "username": "iliya",
+    "password": "1234",
+    "expires_at": "2025-10-14T00:00:00Z"
+  },
+  {
+    "username": "ali",
+    "password": "1234",
+    "expires_at": "2025-10-20T23:59:59Z"
+  }
 ]
 
