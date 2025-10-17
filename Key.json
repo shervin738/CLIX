@@ -8,7 +8,7 @@
   },
   "dns": {
     "password": "1234",
-    "expiry": "2025-10-25",
+    "expiry": "2025-10-12",
     "name": "Test User 1",
     "max_sessions": 2,
     "active_ids": []
